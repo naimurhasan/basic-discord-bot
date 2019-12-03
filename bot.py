@@ -17,5 +17,5 @@ async def introduce(ctx):
     """I'll introduce myself"""
     await ctx.send('Hey, I\'m a discrod bot! Made by Naimur&Arefin.')
 
-client.run('')
+client.run('ACCESSTOKEN')
 
